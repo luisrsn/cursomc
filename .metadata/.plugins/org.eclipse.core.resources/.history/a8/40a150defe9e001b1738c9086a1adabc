@@ -1,0 +1,5 @@
+package com.luisribeiro.cursomc.services;
+
+public class CategoriaService {
+
+}

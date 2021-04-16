@@ -2,6 +2,7 @@ INDEX VERSION 1.131+D:\Luis\Cursos\Modelagem de Dados UML\Udemy\workspace\cursom
 4016875526.index
 1676569547.index
 1941117479.index
+1004660258.index
 2713199834.index
 1079324298.index
 3394590350.index
@@ -40,6 +41,7 @@ INDEX VERSION 1.131+D:\Luis\Cursos\Modelagem de Dados UML\Udemy\workspace\cursom
 2434896851.index
 3957456298.index
 4039213478.index
+1821503863.index
 2288890653.index
 1094280951.index
 3733664857.index
@@ -50,6 +52,7 @@ INDEX VERSION 1.131+D:\Luis\Cursos\Modelagem de Dados UML\Udemy\workspace\cursom
 2207909710.index
 37225172.index
 3643006484.index
+3501306673.index
 2578185480.index
 3922585110.index
 2687588516.index

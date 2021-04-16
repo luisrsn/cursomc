@@ -1,0 +1,23 @@
+[33mcommit 07e78800d69c48d79526f506f768e27cbd339e1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Luis Ribeiro <luisrsn@gmail.com>
+Date:   Fri Apr 16 16:57:04 2021 -0300
+
+    Banco de dados H2 e criacao automatica da base de dados
+
+[33mcommit 8c231754bd0e379a30af12b3342b039c27796124[m
+Author: Luis Ribeiro <luisrsn@gmail.com>
+Date:   Thu Apr 15 20:34:29 2021 -0300
+
+    Testando a primeira classe de domínio - Categoria
+
+[33mcommit a43dfd1d9181c9d4773d2c7fadf2ad4f97493aba[m
+Author: Luis Ribeiro <luisrsn@gmail.com>
+Date:   Thu Apr 15 19:53:44 2021 -0300
+
+    REST testado
+
+[33mcommit 9af253fa9d5e1463e051d5088d17f607bdb9769b[m
+Author: Luis Ribeiro <luisrsn@gmail.com>
+Date:   Thu Apr 15 19:41:09 2021 -0300
+
+    Projeto criado
